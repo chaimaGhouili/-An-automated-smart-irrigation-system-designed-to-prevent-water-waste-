@@ -66,8 +66,8 @@ A schematic diagram is provided using **circuito.io** to visualize connections b
 ## 📜 Contact
 
 👩‍💻 **Chaima Ghouili**  
-🔗 [LinkedIn Profile](www.linkedin.com/in/chaima-ghouili-98b54527a)
 📧 Email: *chaima.ghouili@isimg.tn* 
+LinkedIn Profile :*www.linkedin.com/in/chaima-ghouili-98b54527a*
 
 ---
 
