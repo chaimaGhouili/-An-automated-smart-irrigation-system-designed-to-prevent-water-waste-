@@ -1,5 +1,3 @@
-
-![Design sans titre (1)](https://github.com/user-attachments/assets/d9f952c4-a719-4145-ba1d-388c1cffd4ec)
 # 🌱 Smart Irrigation System with ESP32
 
 This project implements an **automated smart irrigation system** designed to **prevent water waste**. It uses an **ESP32 microcontroller** and several sensors to monitor environmental conditions and control a water pump.
@@ -69,7 +67,7 @@ A schematic diagram is provided using **circuito.io** to visualize connections b
 
 👩‍💻 **Chaima Ghouili**  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/chaima-ghouili-98b54527a/)
-📧 Email: *[chaima.ghouili@isimg.tn]* 
+📧 Email: *chaima.ghouili@isimg.tn* 
 
 ---
 
